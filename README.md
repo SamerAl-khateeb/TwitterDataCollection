@@ -7,7 +7,7 @@ This repository has two folders with Python files and samples of input and outpu
 
 **output.csv** is a sample of the output file without an actual data
 
-**modified_CSV-user_hashtag_extractor.py** is a modified version of the *CSV-user_hashtag_extractor.py* so it can work with the data collected from *getTweetsByKeyword.py*
+**modified_CSV-user_hashtag_extractor.py** is a modified version of the **CSV-user_hashtag_extractor.py** so it can work with the data collected from **getTweetsByKeyword.py**
 
 ## Using_List_Of_Users folder contains:
 
