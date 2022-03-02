@@ -181,7 +181,7 @@ def main():
         # the 900 requests per 15 minutes limit
         time.sleep(1)
 
-    # send the two lists to the funciton so we get one list has all the info
+    # send the two lists to the function so we get one list that has all the info
     CSV_output_list = combine_two_lists(CSV_output_list_tweets, CSV_output_list_users)
     
     # write the CSV_output_list to the CSV file
