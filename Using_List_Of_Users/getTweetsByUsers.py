@@ -4,9 +4,9 @@
 # Dependencies: You need to install the requests module
 # here is how to do it: Open terminal or CMD:
 # For Mac OS users type:
-# python3 -m pip install requests
+#   python3 -m pip install requests
 # For Windows users type:
-# py -m pip install requests
+#   py -m pip install requests
 # once you install requests, go to IDLE and run this script
 
 # How to use this script:
